@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is D853-684F
+
+ Directory of C:\Users\Pratik\Desktop\gitOperations\HelloWorld
+
+16-10-2022  23:22    <DIR>          .
+16-10-2022  23:21    <DIR>          ..
+16-10-2022  23:22                 0 file1.txt
+16-10-2022  23:20               351 index2.html
+               2 File(s)            351 bytes
+               2 Dir(s)  175,299,174,400 bytes free
